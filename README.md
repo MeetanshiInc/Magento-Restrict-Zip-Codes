@@ -1,6 +1,6 @@
 # Magento Restrict Zip Codes
 
-With the advance of E-commerce, local businesses are also opting for an online store to reach out to more potential customers. But the online store, accessible worldwide, causes traffic and orders that are not meant to be placed. To limit users based on locations to place orders, a proper system must be implemented to avoid unnecessary orders and its data. For Magento stores, Meetanshi have developed ***Magento Restrict Zip Codes*** extension to serve this purpose!
+With the advance of E-commerce, local businesses are also opting for an online store to reach out to more potential customers. But the online store, accessible worldwide, causes traffic and orders that are not meant to be placed. To limit users based on locations to place orders, a proper system must be implemented to avoid unnecessary orders and its data. For Magento stores, Meetanshi have developed [***Magento Restrict Zip Codes***](https://meetanshi.com/magento-restrict-zip-codes.html) extension to serve this purpose!
 
 Magento Restrict Zip Codes is handy when the admin wants to limit the order placement based on the locations. The module allows visitors to check order availability in their location by entering the zip code. They can place the order only for the allowed zip codes. These allowed zip codes are added in the CSV file, uploaded from the backend.
 
@@ -18,4 +18,4 @@ With Magento Restrict Zip Codes, easily avoid unwanted orders which may cause th
 * Restrict order from backend using zip codes.
 
 
-Visit, to know more: https://meetanshi.com/magento-restrict-zip-codes.html
+Visit, to know more: [https://meetanshi.com/magento-restrict-zip-codes.html](https://meetanshi.com/magento-restrict-zip-codes.html)
